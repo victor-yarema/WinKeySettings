@@ -1,0 +1,8 @@
+REGEDIT4
+
+[HKEY_CURRENT_USER\Software\Copernic Technologies\WinKey\Shortcuts]
+"37"="Minimize Active Window|||0|"
+"38"="Maximize Active Window|||0|"
+"40"="Restore Active Window|||0|"
+"120"="C:\\Programs\\WinKey\\WinKey.exe|||0|"
+

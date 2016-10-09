@@ -1,0 +1,8 @@
+REGEDIT4
+
+[HKEY_CURRENT_USER\Software\Copernic Technologies\WinKey\Main]
+"ColumnSettings"="157;351;118;"
+"FirstUse"=dword:0
+"TrayIcon"=dword:0
+"WindowPlacement"="258;259;763;505;0"
+
