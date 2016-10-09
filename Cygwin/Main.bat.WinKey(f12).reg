@@ -1,0 +1,5 @@
+REGEDIT4
+
+[HKEY_CURRENT_USER\Software\Copernic Technologies\WinKey\Shortcuts]
+"123"="c:\\Settings\\WinKey\\Cygwin\\Main.bat|||0|"
+
